@@ -1,16 +1,7 @@
-# practical_2
 
-A new Flutter project.
 
-## Getting Started
+https://github.com/MannMeruliya/voting_app/assets/113959975/87f281ff-3e8b-4823-bf0e-0fc0049094a1
 
-This project is a starting point for a Flutter application.
+![Screenshot 2023-09-05 155457](https://github.com/MannMeruliya/voting_app/assets/113959975/59c854aa-eeff-4acc-a7ed-bbc782c6b991)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2023-09-05 155516](https://github.com/MannMeruliya/voting_app/assets/113959975/2c5a3b26-9ea8-4c45-a224-4f3444910f8f)
